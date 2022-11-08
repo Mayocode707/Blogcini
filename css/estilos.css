@@ -17,3 +17,23 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    font-size: 20px;
+    
+    
+    background-color: black;
+    border: 3px solid lime;
+}
+#title{
+    font-size: 40px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#cabecera span{
+    font-size: 15;
+    color: skyblue;
+    font-weight: bold;
+    text-decoration: overline;
+}
