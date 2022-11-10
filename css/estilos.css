@@ -37,7 +37,14 @@ color: #333;
     font-weight: bold;
     text-decoration: overline;
 }
-.huella{
-    color: green;
+.pie{
+    background-color: black;
+    border: 2px solid red;
+    text-align: center;
+}
+.pie p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: magenta;
     font-weight: bold;
+    font-size: 25px;
 }
