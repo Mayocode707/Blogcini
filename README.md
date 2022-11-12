@@ -5,4 +5,5 @@ Asi mismo se puede concluir que es de gran utlidad el uso de ewsta plataformas p
 
 *"Nunca pares de apreder"*
   **Platzi**
+  *creado por El Mayo
   <img src="https://i.imgur.com/SvwTNIy.jpeg">
