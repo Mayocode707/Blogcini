@@ -7,4 +7,5 @@ Asi mismo se puede concluir que es de gran utlidad el uso de ewsta plataformas p
   **Platzi**
   *creado por El Mayo
   *incluye ejemplos en windows, linux y mac
+  *disponible soro para los shabos :v
   <img src="https://i.imgur.com/SvwTNIy.jpeg">
