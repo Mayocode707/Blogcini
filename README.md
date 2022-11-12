@@ -6,4 +6,9 @@ Asi mismo se puede concluir que es de gran utlidad el uso de ewsta plataformas p
 *"Nunca pares de apreder"*
   **Platzi**
   *creado por El Mayo
+<<<<<<< HEAD
+=======
+  *incluye ejemplos en windows, linux y mac
+  *disponible soro para los shabos :v
+>>>>>>> readme-mejorado
   <img src="https://i.imgur.com/SvwTNIy.jpeg">
